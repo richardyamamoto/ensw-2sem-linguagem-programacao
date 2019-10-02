@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Disciplina
+comment1.params=nomeDisciplina\ nomeProfessor\ titulacao\ professor
+comment1.target=Disciplina(java.lang.String,\ java.lang.String,\ java.lang.String,\ Professor)
+comment2.params=
+comment2.target=java.lang.String\ getNomeDisciplina()
+comment3.params=nomeDisciplina
+comment3.target=void\ setNomeDisciplina(java.lang.String)
+comment4.params=
+comment4.target=Professor\ getProfessor()
+numComments=5

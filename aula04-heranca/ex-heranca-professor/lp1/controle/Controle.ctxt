@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Controle
+comment1.params=nomeProfessor\ titulacao
+comment1.target=void\ cadastrarProfessor(java.lang.String,\ java.lang.String)
+comment2.params=nomeProfessor
+comment2.target=lp1.modelo.Professor\ getProfessor(java.lang.String)
+comment3.params=titulacao
+comment3.target=java.lang.String\ getProfessorPorTitulacao(java.lang.String)
+comment4.params=nomeDisciplina\ nomeProfessor\ titulacao
+comment4.target=void\ cadastrarDisciplina(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=nomeDisciplina
+comment5.target=java.lang.String\ getDisciplina(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getTodasDisciplinas()
+comment7.params=
+comment7.target=java.lang.String\ getTodosProfessores()
+numComments=8

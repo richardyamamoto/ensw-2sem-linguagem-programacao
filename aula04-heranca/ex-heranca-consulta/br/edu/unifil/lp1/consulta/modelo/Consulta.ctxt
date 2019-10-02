@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Consulta
+comment1.params=
+comment1.target=java.lang.String\ getNome()
+comment10.params=valorConsulta
+comment10.target=void\ setValorConsulta(double)
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getMatricula()
+comment4.params=matricula
+comment4.target=void\ setMatricula(java.lang.String)
+comment5.params=
+comment5.target=int\ getNumeroDependentes()
+comment6.params=numeroDependentes
+comment6.target=void\ setNumeroDependentes(int)
+comment7.params=
+comment7.target=int\ getAnoInclusao()
+comment8.params=anoInclusao
+comment8.target=void\ setAnoInclusao(int)
+comment9.params=
+comment9.target=double\ getValorConsulta()
+numComments=11

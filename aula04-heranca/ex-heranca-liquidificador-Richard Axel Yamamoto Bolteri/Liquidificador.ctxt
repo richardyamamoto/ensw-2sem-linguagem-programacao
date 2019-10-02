@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Liquidificador
+comment1.params=velocidadeMaxima
+comment1.target=Liquidificador(int)
+comment2.params=velocidadeMaxima
+comment2.target=void\ setVelocidadeMaxima(int)
+comment3.params=velocidade
+comment3.target=void\ setVelocidade(int)
+comment4.params=
+comment4.target=int\ getVelocidade()
+comment5.params=
+comment5.target=int\ getVelocidadeMaxima()
+numComments=6
